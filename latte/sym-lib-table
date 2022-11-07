@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "toshiba")(type "KiCad")(uri "${KIPRJMOD}/toshiba.kicad_sym")(options "")(descr ""))
+  (lib (name "onsemi")(type "KiCad")(uri "${KIPRJMOD}/onsemi.kicad_sym")(options "")(descr ""))
 )
