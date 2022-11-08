@@ -1,0 +1,4 @@
+(version 1)
+(rule USB
+   (constraint clearance (min 0.5mm))
+   (condition "A.NetClass == 'USB' && A.Type == 'Track' && B.Type == 'Zone'"))
