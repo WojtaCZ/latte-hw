@@ -14,7 +14,3 @@
 (rule CLASS
    (constraint clearance (min 0.1mm))
    (condition "A.NetClass == 'USB'"))
-
-(rule CLASS2
-   (constraint clearance (min 0.1mm))
-   (condition "A.NetClass == 'Default'"))
